@@ -1,0 +1,19 @@
+{
+  "name": "@yacis/auth-lib",
+  "version": "0.1.0",
+  "description": "Auth middleware for yacis project",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yet-Another-Check-In-System/auth-lib.git"
+  },
+  "author": "Joonas Hiltunen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yet-Another-Check-In-System/auth-lib/issues"
+  },
+  "homepage": "https://github.com/Yet-Another-Check-In-System/auth-lib#readme"
+}
